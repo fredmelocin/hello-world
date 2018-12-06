@@ -1,0 +1,1 @@
+@py.exe C:\Users\cfbm\project\mapit\mapit.py %*
